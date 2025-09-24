@@ -1,0 +1,1 @@
+print("Diego Vazquez Perez avui es dia 12 de septembre del 2025")
